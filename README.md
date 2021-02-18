@@ -4,7 +4,7 @@
 ### multi_objects_attribute_editor.py
 
 - The code can be found [here](https://github.com/jerry-botaoyu/Technical-Director-Portfolio/blob/main/multi_objects_attribute_editor.py)
-- Description: This editor allows user to change one attribute for multiple identical objects. So far, the script works on the transform node.
+- Description: This editor allows user to change one attribute for multiple identical objects. So far, the script works on the transform and mesh objects.
 - The idea was born from [this forum post on autodesk](https://forums.autodesk.com/t5/maya-ideas/attribute-editor-allow-changes-to-be-made-to-multiple-objects/idi-p/7960063).
 
 
