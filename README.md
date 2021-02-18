@@ -1,4 +1,5 @@
 
+## Projects that directly relates to the position
 
 ### multi_objects_attribute_editor.py
 
@@ -11,3 +12,8 @@
 
 - The code can be found [here](https://github.com/jerry-botaoyu/technical-director/blob/main/snap_together.py). 
 - Description: This is an inferior version of the Snap Together Tool used in Maya.
+
+
+## School projects that demonstrate my programming abilities
+
+Throughout my studies in college, I have built projects using Java, C#, and PHP. Theses projects can be found  [here](https://github.com/jerry-botaoyu/school_projects)
